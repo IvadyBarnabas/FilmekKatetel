@@ -161,7 +161,8 @@ label:hover {
     #film10:checked ~ .content #v10,
     #film11:checked ~ .content #v11,
     #film12:checked ~ .content #v12,
-    #film13:checked ~ .content #v13 {
+    #film13:checked ~ .content #v13,
+    #film14:checked ~ .content #v14 {
       display: block;
     }
 
